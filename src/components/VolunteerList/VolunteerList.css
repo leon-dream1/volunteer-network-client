@@ -1,0 +1,23 @@
+.title-content{
+    display: flex;
+    padding-top: 20px;
+}
+.name{
+    width: 20%;
+}
+.email{
+    width: 25%;
+}
+.date{
+    width: 20%;
+}
+.eventName{
+    width: 20%;
+}
+.trash{
+    width: 15%;
+}
+.trash img{
+    background: red;
+    border-radius: 5px;
+}

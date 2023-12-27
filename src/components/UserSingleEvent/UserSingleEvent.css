@@ -1,0 +1,22 @@
+.user-main-events{
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    padding: 30px 30px;
+    border-radius: 20px;
+    display: flex;
+}
+.single-image{
+    display: inline-block;
+    height: 200px;
+    width: 200px;
+    border-radius: 10px;
+}
+.event-detail{
+    padding-left: 50px;
+}
+.cancel-btn{
+    border: none;
+    background: lightgray;
+    padding: 10px 30px;
+    border-radius: 10px;
+    font-size: 19px;
+}

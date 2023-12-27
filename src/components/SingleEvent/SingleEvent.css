@@ -1,0 +1,16 @@
+.events-main-content{
+    width: 25%;
+    display: inline-block;
+}
+.event-content{
+    text-align: center;
+    padding-left: 60px;
+    margin-bottom: 40px !important;
+    cursor: pointer;
+}
+.event-name{
+    margin-top: -40px;
+    padding: 30px 0;
+    background: #3f90fc;
+    color: #fff;
+}
